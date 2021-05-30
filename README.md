@@ -7,4 +7,4 @@
 
 
 ## Common links
-- [](https://docs.github.com/en/rest/reference/repos#create-or-update-file-contents)
+- https://docs.github.com/en/rest/reference/repos#create-or-update-file-contents
