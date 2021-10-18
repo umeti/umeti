@@ -31,7 +31,9 @@
 - [axios](https://axios-http.com/)  各功能齐全。不像fetch连简单的超时控制都没有。
 - [cheerio] 一个xml解析库，用过jquery的都说好。
 - [dateformat] 感觉有了这个js才算一个完整的编程语言。
-- [color] 颜色处理。
+- 其它繁杂项目 color, format, yaml, dns2, ......
+
+
 
 
 ## 观望的开源项目和技术
@@ -40,6 +42,12 @@
 - vimL 哪天vscode无法满足我的需求时可能深入地折腾一下vim
 - docker 玩过，但没有认真折腾过。目前对此理解就是**环境**包管理器。通常做项目前都要搭建环境，安装一些软件，修改一些配置。但在它的帮助下，可以直接安装一个**环境**。
 
+<details>
+<summary>折叠内容</summary>
+  <p>
+    hello world
+  </p>
+</details>
 
 ## 常用链接
 - https://docs.github.com/en/rest/reference/repos#create-or-update-file-contents
