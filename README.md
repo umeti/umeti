@@ -29,9 +29,9 @@
 - [hugo](https://gohugo.io/) 接着就用了这个，构建超快。折腾一年多，然后感觉，功能很少，而且模板语法写的很痛苦。。。
 - [next.js](https://nextjs.org/) 现在用这个建站，上手不久，虽然也有很多不足之处，但我大概不会再纠结这些问题了，已经没有多少时间去折腾其它框架了，就先用这个做出一个完成品吧。
 - [axios](https://axios-http.com/)  各功能齐全。不像fetch连简单的超时控制都没有。
-- [cheerio] 一个xml解析库，用过jquery的都说好。
-- [dateformat] 感觉有了这个js才算一个完整的编程语言。
-- 其它繁杂项目 color, format, yaml, dns2, ......
+- [cheerio](https://www.npmjs.com/package/cheerio) 一个xml解析库，用过jquery的都说好。
+- [dateformat](https://www.npmjs.com/package/dateformat) 感觉有了这个js才算一个完整的编程语言。
+- 其它繁杂项目 [color](https://www.npmjs.com/package/color), [format](https://www.npmjs.com/package/format), [yaml](https://www.npmjs.com/package/yaml), [dns2](https://www.npmjs.com/package/dns2), ......
 
 
 
